@@ -1,0 +1,61 @@
+baseurl = "https://orlandovp.com/"
+locale = "en-us"
+theme = "terminal"
+pagination.pagerSize = 5
+markup.highlight.noClasses = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  contentTypeName = "writeups"
+  showMenuItems = 3
+
+  fullWidthTheme = true
+  centerTheme = true
+
+  readingTime = true
+  autoCover = false #may change this if i choose to use a single cover for writeups/projects
+  showLastUpdated = true
+  enableGitInfo = true
+  updatedDatePrefix = "Updated"
+  
+  # below should be overwritten for longer pentest reports
+  Toc = false 
+  TocTitle = "Contents"
+
+[languages]
+  [languages.en]
+    label = "English"
+    title = "Orlando VP"
+
+    [languages.en.params]
+      subtitle = "cybersecurity writeups & projects"   
+      owner = "Orlando Vera Perez"
+      copyright = "©q0xVp"
+      readMore = "Read more"
+      readOtherPosts = "More writeups"
+      newerPosts = "Newer"
+      olderPosts = "Older"
+      missingContentMessage = "404: no such file or directory :(" 
+      missingBackButtonLabel = "cd ~"
+      minuteReadingTime = "min read"
+
+      [languages.en.params.logo]
+        logoText = "OVP@site:~$"  
+        logoHomeLink = "/"
+
+      # main navigation menu
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "projects"
+          name = "Projects"
+          url = "/projects/"
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
