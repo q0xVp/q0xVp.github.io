@@ -1,4 +1,4 @@
-baseurl = "https://orlandovp.com/"
+baseurl = "https://www.orlandovp.com/"
 locale = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
