@@ -17,11 +17,15 @@ With that in mind, I hope you enjoy your time learning about me, the things I do
 
 ## Skills
 
-**Security & Detection:** Vulnerability Management, NIST CSF/RMF, MITRE ATT&CK, Log Analysis, NAC, FERPA Compliance
-**Security & Network Tools:** Wireshark, Nmap, Burp Suite, OWASP ZAP, Cisco IOS CLI
-**Systems & Networking:** Windows / macOS / Linux, Active Directory, VMware / VirtualBox, TCP/IP, DNS, DHCP, Wi-Fi/LAN support
-**Automation & Scripting:** PowerShell, Bash, Python, Golang, Git, Docker
-**Cloud & Data:** Azure, scikit-learn, numpy, Django, conda
+**Security & Detection:** Vulnerability Management, NIST CSF/RMF, MITRE ATT&CK, Log Analysis, NAC, FERPA Compliance   
+
+**Security & Network Tools:** Wireshark, Nmap, Burp Suite, OWASP ZAP, Cisco IOS CLI   
+
+**Systems & Networking:** Windows / macOS / Linux, Active Directory, VMware / VirtualBox, TCP/IP, DNS, DHCP, Wi-Fi/LAN support   
+
+**Automation & Scripting:** PowerShell, Bash, Python, Golang, Git, Docker   
+
+**Cloud & Data:** Azure, scikit-learn, numpy, Django, conda   
 
 ## Certifications
 
