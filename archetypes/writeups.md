@@ -14,7 +14,6 @@ description = ""        # homepage teaser
 showFullContent = false # teaser + "Read more"
 readingTime = true
 Toc = false              # set to true for longer pentest reports ONLY
-hideComments = false
 +++
 
 <!-- simple skeleton below -->

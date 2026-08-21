@@ -11,7 +11,6 @@ description = ""
 showFullContent = false 
 readingTime = true
 Toc = false              # may be needed in the future, unsure.
-hideComments = false
 +++
 
 <!-- simple skeleton below -->
