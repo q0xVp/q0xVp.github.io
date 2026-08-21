@@ -18,13 +18,9 @@ With that in mind, I hope you enjoy your time learning about me, the things I do
 ## Skills
 
 **Security & Detection:** Vulnerability Management, NIST CSF/RMF, MITRE ATT&CK, Log Analysis, NAC, FERPA Compliance   
-
 **Security & Network Tools:** Wireshark, Nmap, Burp Suite, OWASP ZAP, Cisco IOS CLI   
-
 **Systems & Networking:** Windows / macOS / Linux, Active Directory, VMware / VirtualBox, TCP/IP, DNS, DHCP, Wi-Fi/LAN support   
-
 **Automation & Scripting:** PowerShell, Bash, Python, Golang, Git, Docker   
-
 **Cloud & Data:** Azure, scikit-learn, numpy, Django, conda   
 
 ## Certifications
@@ -44,13 +40,13 @@ With that in mind, I hope you enjoy your time learning about me, the things I do
 
 The full role-by-role history is in my resume. Still, here's what's most relevant to security work.
 
-**Network Manager — Polk County Public Schools** · *Aug 2023 – Present*
+**Network Manager — Polk County Public Schools** · *Aug 2023 – Present*   
 Solo-manage and secure roughly 500 endpoints and 50 network devices at 99.9% uptime, and act as sole technical approver for campus technology purchases. First-line responder for staff-reported phishing and malware events. 100+ emails reviewed, including a suspicious USB hardware escalated directly to district IT security. Directed a $54,000, multi-building technology modernization efforts end to end. Took pleasure in out-of-scope victories such as using scripting to automate a manual absence-reporting workflow to standardizing how non-standard IoT devices get onboarded onto NAC. Named Campus Employee of the Year (2024–2025) out of roughly 30 non-teaching staff.
 
-**Mac+ AppleCare Technical Support Advisor — KellyConnect** · *May 2022 – Dec 2022*
+**Mac+ AppleCare Technical Support Advisor — KellyConnect** · *May 2022 – Dec 2022*   
 Promoted through three support tiers: iOS, then Media Services + iOS, then full Mac+ Apple ecosystem support all in five months (also the fastest pace in my training cohort). Closed 1,000+ iOS/macOS cases in the top 1% of AppleCare advisors company-wide while cutting average resolution time by 25%, and mentored 5+ new hires along the way.
 
-**Lead Instructor — Bricks 4 Kidz** · *Jan 2023 – Aug 2023*
+**Lead Instructor — Bricks 4 Kidz** · *Jan 2023 – Aug 2023*   
 Taught robotics/STEM workshops to 100+ students. Even though this is not directly security-relevant, I definitely learned invaluable skills. Other than enjoying my time making little ones have a wonderful experience learning about analog robotics, it was when I first had to take something technical and complicated and make it click for someone with zero context — a skill that turns out to matter just as much in a SOC handoff as it does in a classroom.
 
 ## Projects & Practice
